@@ -1,16 +1,16 @@
 <?php
 /**
- * Plugin Name:       Boilerplate
+ * Plugin Name:       Text Box
  * Description:       Example block written with ESNext standard and JSX support – build step required.
- * Requires at least: 5.7
- * Requires PHP:      7.0
+ * Requires at least: 6.0
+ * Requires PHP:      7.4
  * Version:           0.1.0
  * Author:            The WordPress Contributors
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       boilerplate
+ * Text Domain:       text-box
  *
- * @package           create-block
+ * @package           blocks-text-box 
  */
 
 /**
